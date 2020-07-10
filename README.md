@@ -1,6 +1,7 @@
 # This is a template repository to add an extension to QWAT.
 
-AJOUTER BRUNO
+Ajouter bruno en minuscules
+
 ## Naming rule
 
 It is recommended to use this template and to name the extension_xxx repository.
